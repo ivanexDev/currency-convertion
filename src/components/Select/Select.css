@@ -1,0 +1,11 @@
+.select-label {
+  font-family: "Jura", sans-serif;
+  font-weight: 600;
+}
+
+.form-select {
+  height: 30px;
+  width: 170px;
+  border-radius: 7px;
+  border: 1px solid #a7a7a7;
+}

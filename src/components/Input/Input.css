@@ -1,0 +1,9 @@
+.form-input {
+    height: 30px;
+    width: 170px;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border: 1px solid #a7a7a7;
+    text-align: center;
+}
