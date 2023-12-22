@@ -20,17 +20,13 @@ const Result: React.FC<ResultProps> = (props) => {
     currentCurrency?.decimal_digits
   );
   const isSingleCurrencyUnit = () => {
-    if (Number(result) <= 1) {
-      return true;
-    }
-    return false;
+    return Number(result) <= 1
   };
 
   return (
     <>
-      {props.errorMessage ? (
-        <p className="error-message">{props.errorMessage}</p>
-      ) : (
+      {props.errorMessage ? (<p className="error-message">{props.errorMessage}</p>) : 
+      (
         <div>
           <p>
             {!props.isNotNumber ? props.originValue : null} {props.baseCurrency}{" "}
