@@ -19,12 +19,12 @@ cd currency-convertion
 npm install
 ```
 ### 3. Crear variable de entorno
-  - Crear un archivo .env en la raiz del proyecto con la api key de Free Currency API, con la siguiente estructura
+  - Crear un archivo .env en la raíz del proyecto con la api key de Free Currency API, con la siguiente estructura
   ```js
   VITE_API_KEY=Aqui_la_api_key
   ```
 
-### 4. Ejeccución del proyecto.
+### 4. Ejecución del proyecto.
   - Inicia la aplicación en tu navegador.
 ```bash
 npm run dev
@@ -34,12 +34,12 @@ npm run dev
 ### 5. Selección de Monedas:
   - Elige la divisa base desde la cual quieres hacer el cambio y la segunda divisa de la cual quieres obtener el resultado.
 
-### 6. Cantdad a covnertir:
+### 6. Cantidad a convertir:
   - En el primer input agrega la cantidad de la divisa que quieres convertir.
 
 ### 7. Cálculo de conversión:
-  - El calculo se hace de manera automatiza al ingresar el valor.
+  - El cálculo se hace de manera automatiza al ingresar el valor.
 ### 8. Visualización de Resultados:
   - El resultado se puede visualizar en la parte inferior de la tarjeta.
 ### 9. Invertir divisas:
-  - Para invertir la divisas presionar el boton negro que se ubica entre medio de ambas divisas.
+  - Para invertir la divisas presionar el botón negro que se ubica entre medio de ambas divisas.
