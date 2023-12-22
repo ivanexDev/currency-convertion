@@ -1,0 +1,5 @@
+export {default as ChangeButton} from "./ChangeButton/ChangeButton"
+export {default as Input} from "./Input/Input"
+export {default as Result} from "./Result/Result"
+export {default as Select} from "./Select/Select"
+export {default as Title} from "./Title/Title"

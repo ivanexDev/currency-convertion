@@ -1,10 +1,6 @@
+import { ChangeButton, Input, Result, Select, Title } from "./components";
 import "./global.css";
-import { Result } from "./components/Result";
-import { Title } from "./components/Title";
-import { ChangeButton } from "./components/ChangeButton";
-import { Select } from "./components/Select";
 import useCurrency from "./hook/useCurrency";
-import { Input } from "./components/Input";
 import { FormEvent } from "react";
 
 function App() {
