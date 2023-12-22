@@ -38,7 +38,7 @@ npm run dev
   - En el primer input agrega la cantidad de la divisa que quieres convertir.
 
 ### 7. Cálculo de conversión:
-  - El cálculo se hace de manera automatiza al ingresar el valor.
+  - El cálculo se hace de manera automatica al ingresar el valor.
 ### 8. Visualización de Resultados:
   - El resultado se puede visualizar en la parte inferior de la tarjeta.
 ### 9. Invertir divisas:
