@@ -5,6 +5,14 @@
 
 Prueba técnica desarrollo front-end. Conciste en la creación de una aplicación de conversión de monedas utilizando la API gratuita de [Free Currency API](https://freecurrencyapi.com/). El objetivo, crear una experiencia de usuario efectiva, aplicar conocimientos de HTML, CSS y JavaScript, así como interactuar con servicios web externos.
 
+## Requerimientos
+
+- ✅ Selección de monedas.
+- ✅ Cantidad a convertir.
+- ✅ Cálculo de conversión.
+- ✅ Visualización de resultados.
+- ✅ Interfaz Responsiva.
+
 ## Instrucciones Generales
 ### 1. Configuración del Proyecto:
   - Clona este repositorio en tu maquina local.
